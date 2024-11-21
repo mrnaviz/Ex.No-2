@@ -91,7 +91,7 @@ int main()
 
 # OUTPUT
 
-![377384788-6a88fae6-485d-4d0e-8a80-a33ffa959042](https://github.com/user-attachments/assets/baa90d9e-fd7b-4ff6-bd6c-b4f11bc41325)
+![375307955-9fba631a-de3a-4405-b26c-27445dc81a25](https://github.com/user-attachments/assets/85e2f3e9-5137-41af-961e-67f5656416a1)
 
 
 # RESULT
